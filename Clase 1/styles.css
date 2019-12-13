@@ -1,0 +1,68 @@
+.container{
+background-color: rgba(47, 194, 204, 0.747);
+padding: 30px;
+border: solid rgb(18, 106, 112) 10px;
+}
+
+.header {
+    background: rgb(18, 106, 112);
+    padding: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.nav {
+    background: floralwhite;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin: 10px 0;
+
+}
+
+.infolina {
+    background: rgb(18, 106, 112);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box__left{
+    max-width: 50%;
+}
+
+.box__top {
+    background: rgb(213, 232, 228);
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: rgb(49, 65, 63);
+}
+
+.box__bottom {
+    background: rgb(23, 168, 139);
+    padding: 10px;
+    
+}
+
+.box__image{
+    width: 100%;
+    display: block;
+}
+
+.box__right {
+    width: 400px;
+    margin: 10px;
+}
+
+.footer {
+    background: rgb(55, 77, 75);
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: floralwhite;
+    text-align: center;
+    margin-top: 10px;
+}
