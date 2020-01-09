@@ -54,8 +54,11 @@ border: solid rgb(18, 106, 112) 10px;
 }
 
 .box__right {
-    width: 400px;
+    background: rgb(213, 232, 228);
+    width: 700px;
     margin: 10px;
+    color: aqua;
+    font-size: 10px;
 }
 
 .footer {
